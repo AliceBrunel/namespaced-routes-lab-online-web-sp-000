@@ -4,7 +4,7 @@ class Admin::PreferencesController < ApplicationController
 
   end
 
-  private 
+  private
 
 
 end
