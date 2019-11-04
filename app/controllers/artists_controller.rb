@@ -1,6 +1,8 @@
 class ArtistsController < ApplicationController
   def index
     @artists = Artist.all
+    @preference = Preference.first
+    if Preference.
   end
 
   def show
